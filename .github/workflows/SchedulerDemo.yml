@@ -2,11 +2,11 @@ name: SchedulerDemo
 
 on: 
   schedule:
-    - cron: "30 7,19 * * *"
+    - cron: "45 7,19 * * *"
 
 jobs:
   SD-Job:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
-      - name: Run a one-line script
-        run: Echo "Scheduler demo is success"
+      - name: Run a script
+        run: Echo "SchedulerDemo is success"
