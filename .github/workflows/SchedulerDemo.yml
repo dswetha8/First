@@ -1,0 +1,12 @@
+name: SchedulerDemo
+
+on: 
+  schedule:
+    - cron: "30 6,18 * * *"
+
+jobs:
+  SD-Job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: Echo "Scheduler demo is success"
