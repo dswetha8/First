@@ -2,7 +2,7 @@ name: SchedulerDemo
 
 on: 
   schedule:
-    - cron: "30 6,18 * * *"
+    - cron: "30 7,19 * * *"
 
 jobs:
   SD-Job:
