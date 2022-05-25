@@ -2,11 +2,11 @@ name: SchedulerDemo
 
 on: 
   schedule:
-    - cron: '00 * 25 * *'
+    - cron: '*/15 * 25 * *'
 
 jobs:
   SD-Job:
     runs-on: windows-latest
     steps:
       - name: Run a script
-        run: Echo "SchedulerDemo is success"
+        run: echo "SchedulerDemo is success"
