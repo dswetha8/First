@@ -6,7 +6,7 @@ on:
 
 jobs:
   SD-Job:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: Run a script
         run: echo "SchedulerDemo is success"
