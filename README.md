@@ -53,6 +53,31 @@ Our donation can inspire others.
 Slide 10:  Thank you everyone
 
 
+Professional Summary
+IT professional with 4 years of experience in Azure DevOps and 7.5 years in Application Packaging, seeking a challenging role to leverage my skills, drive efficiency, and contribute to organizational success.
+Work Experience
+LTI Mindtree, Specialist, Sep25 –till date
+Project: London stock Exchange
+•	Built robust GitLab CI/CD pipelines to build Docker images, push to JFrog, promote to ACR, and deploy to Azure Container Apps with single revision strategy and automated quality gates. 
+•	Led IaC delivery by authoring Terraform Cloud Product Framework (CPF)modules to provision Azure services aligned with target architecture: Resource Groups, VNets/Subnets, NSGs, Private Endpoints, AKV (Key Vault), ACR, Log Analytics, Storage Accounts, and Azure Container Apps. 
+•	Built reusable, parameterized Terraform modules with versioning and documentation, enabling consistent, scalable deployments across multiple environments.
+LTI Mindtree, Specialist, Jul23 –till date
+Project: Microsoft
+•	Automated the provisioning and configuration of Azure resources (Log Analytics workspace, Service Bus, API Management, App Configuration, Notification Hubs, Databricks, Machine Learning) using ARM templates, reducing manual errors and deployment time.
+•	Integrated ARM template deployments into Azure DevOps pipelines to enable seamless CI/CD for infrastructure changes.
+•	Successfully migrated Azure workloads across resource groups and subscriptions using ARM templates and automation scripts.
+•	Collaborated with cross-functional teams to plan, design and execute resource migrations.
+•	Authored detailed documentation for ARM templates, migration procedures, and automation workflows, facilitating knowledge sharing across teams.
+•	Automated Azure Sentinel components such as Data Connectors, Analytic Rules, Workbooks, and Playbooks using PowerShell and ARM templates.
+•	Automated Microsoft Defender Antivirus configuration to run in passive mode on Azure and Azure Arc machines by deploying a DWORD registry key using PowerShell, reducing manual effort and saving operational hours.
+•	Independently automated Azure Sentinel components for which I received multiple appreciations from management for improving efficiency and reducing manual effort.
+•	Implemented Azure Landing Zones using Terraform to build secure and scalable cloud environments aligned with Microsoft’s best practices.
+•	Built hub-and-spoke network designs with Azure Firewall, Virtual WAN, and third-party network appliances to support high availability and disaster recovery.
+•	Customized Azure Verified Modules (AVMs) to meet different customer needs, including naming rules, firewall/VPN options, and disaster recovery setups.
+•	Created and maintained Terraform templates and YAML input files to make deployments repeatable across multiple Azure subscriptions using local and ADO setup.
+
+
+
 
 
 
